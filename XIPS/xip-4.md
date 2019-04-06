@@ -7,6 +7,7 @@ type: Standards Track
 category: Core
 status: Draft
 created: 2019-04-06
+discussion: https://github.com/expanse-org/XIPs/issues/4
 ---
 
 ## Simple Summary
