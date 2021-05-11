@@ -1,5 +1,5 @@
-# EXPIPs [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/expanse-org/EXPIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-Expanse Improvement Proposals (EXPIPs) describe standards for the Expanse platform, including core protocol specifications, client APIs, and contract standards.
+# XIPs [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/expanse-org/EXPIPs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+Expanse Improvement Proposals (XIPs) describe standards for the Expanse platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
 First review [XIP-1](EXPIPS/XIP-1.md). Then clone the repository and add your XIP to it. There is a [template XIP here](XIP-X.md). Then submit a Pull Request to Expanse's [EXPIPs repository](https://github.com/expanse-org/EXPIPs).
