@@ -1,9 +1,9 @@
 
-ATTENTION! If you would like to submit an XIP and it has already been written as a draft (see the [template](https://github.com/Expanse-org/EXPIPs/blob/master/XIP-X.md) for an example), please submit it as a [Pull Request](https://github.com/Expanse-org/EXPIPs/pulls).
+ATTENTION! If you would like to submit an XIP and it has already been written as a draft (see the [template](https://github.com/Expanse-org/XIPs/blob/master/XIP-X.md) for an example), please submit it as a [Pull Request](https://github.com/Expanse-org/XIPs/pulls).
 
 If you are considering a proposal but would like to get some feedback on the idea before submitting a draft, then continue opening an Issue as a thread for discussion.  Note that the more clearly and completely you state your idea the higher the quality of the feedback you are likely to receive.
 
-Keep in mind the following guidelines from [XIP-1](https://github.com/Expanse-org/EXPIPs/blob/master/EXPIPS/XIP-1.md):
+Keep in mind the following guidelines from [XIP-1](https://github.com/Expanse-org/XIPs/blob/master/XIPS/XIP-1.md):
 
 > Each XIP must have a champion - someone who writes the XIP using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The XIP champion (a.k.a. Author) should first attempt to ascertain whether the idea is XIP-able. Posting to the the Protocol Discussion forum or opening an Issue is the best way to go about this.
 
